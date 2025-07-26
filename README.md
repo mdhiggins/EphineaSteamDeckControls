@@ -3,7 +3,7 @@
 ![Join Ephinea](https://ephinea.pioneer2.net/)
 
 ```
-steam://controllerconfig/2289998979/3535032490
+steam://controllerconfig/2289998979/3535039501
 ```
 
 **Unofficial Steam Deck controller configuration for Ephinea (Phantasy Star Online Blue Burst)**
@@ -84,7 +84,7 @@ Tip: Set the analog camera sensitivity to a negative value to avoid inverted con
 Use this link to apply the controller layout (game must be named **Phantasy Star Online: Blue Burst** in Steam which is the Lutris default):
 
 ```
-steam://controllerconfig/2289998979/3535032490
+steam://controllerconfig/2289998979/3535039501
 ```
 
 ### In-Game Configuration
