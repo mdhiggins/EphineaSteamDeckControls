@@ -2,6 +2,8 @@
 
 ![Join Ephinea](https://ephinea.pioneer2.net/)
 
+**[Steam Controller Config Link](steam://controllerconfig/2289998979/3534677609)**
+
 **Unofficial Steam Deck controller configuration for Ephinea (Phantasy Star Online Blue Burst)**
 
 This layout is designed for fast, intuitive access to all 10 action bar buttons without relying on radial menus or needing to look down at the controller. It also includes an optional cursor mode for launcher/LUA interaction, along with full support for all 12 quick chat commands.
@@ -79,7 +81,7 @@ Tip: Set the analog camera sensitivity to a negative value to avoid inverted con
 
 Use this link to apply the controller layout (game must be named **Phantasy Star Online: Blue Burst** in Steam which is the Lutris default):
 
-**[Steam Controller Config Link](steam://controllerconfig/2289998979/3529510255)**
+**[Steam Controller Config Link](steam://controllerconfig/2289998979/3534677609)**
 
 ### In-Game Configuration
 
